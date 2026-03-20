@@ -1,0 +1,21 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore dataset folder
+Data/
+
+# Ignore model and pickle files
+best_model.pkl
+encoder.pkl
+scaler.pkl
+
+# Ignore unnecessary README file
+README INFO.md
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+Thumbs.db
